@@ -1,5 +1,6 @@
 TEST 1 voir commit pour tester le différentes saveurs de fork (ParentProject ou For my ownpurpose)/
 Test 2
+Test 3
 # pimpmykali.sh
 
 # Fixes for new imported Kali Linux virtual machines
