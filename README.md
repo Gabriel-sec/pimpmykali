@@ -1,8 +1,12 @@
+
+Test branchParentMode
+
 TEST 1 voir commit pour tester le différentes saveurs de fork (ParentProject ou For my ownpurpose)/
 Test 2
 Test 3
 Test 4
 Test 5 main Mode ParentProject
+
 # pimpmykali.sh
 
 # Fixes for new imported Kali Linux virtual machines
