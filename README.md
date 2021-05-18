@@ -1,4 +1,5 @@
 Test branchParentMode
+Test Push en mode ParentMode
 # pimpmykali.sh
 
 # Fixes for new imported Kali Linux virtual machines
